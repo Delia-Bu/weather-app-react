@@ -1,0 +1,15 @@
+{
+  "main.css": "/weather-app/static/css/main.28a32fc3.chunk.css",
+  "main.js": "/weather-app/static/js/main.f6982355.chunk.js",
+  "main.js.map": "/weather-app/static/js/main.f6982355.chunk.js.map",
+  "runtime~main.js": "/weather-app/static/js/runtime~main.4606d7f5.js",
+  "runtime~main.js.map": "/weather-app/static/js/runtime~main.4606d7f5.js.map",
+  "static/js/2.61327f93.chunk.js": "/weather-app/static/js/2.61327f93.chunk.js",
+  "static/js/2.61327f93.chunk.js.map": "/weather-app/static/js/2.61327f93.chunk.js.map",
+  "index.html": "/weather-app/index.html",
+  "precache-manifest.101293b452fe5d77a0ace2091c2305f3.js": "/weather-app/precache-manifest.101293b452fe5d77a0ace2091c2305f3.js",
+  "service-worker.js": "/weather-app/service-worker.js",
+  "static/css/main.28a32fc3.chunk.css.map": "/weather-app/static/css/main.28a32fc3.chunk.css.map",
+  "static/media/cold2.jpg": "/weather-app/static/media/cold2.eee097b9.jpg",
+  "static/media/pink.jpg": "/weather-app/static/media/pink.bc3f321b.jpg"
+}
